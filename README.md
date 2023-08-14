@@ -25,8 +25,8 @@
 
 <p align="center">
   <a href="https://github.com/BaksiLi">
-    <img src="https://github-readme-stats.vercel.app/api?username=BaksiLi&show_icons=true&theme=transparent" alt="GitHub stats" height="200" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=BaksiLi&limit=4&combine_all_yearly_contributions=true" alt="GitHub Repository Contribution stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BaksiLi&show_icons=true&theme=transparent" alt="GitHub stats" height="150" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=BaksiLi&limit=4&combine_all_yearly_contributions=true" alt="GitHub Repository Contribution stats" height="150" />
   </a>
 </p>
 
