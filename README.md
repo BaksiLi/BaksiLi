@@ -15,6 +15,7 @@
   - Security
   - Robotics
   - Tools: Vim and more
+  - Synthography
  
 - I have degrees which are not related to CS
 
