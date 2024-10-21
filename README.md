@@ -4,7 +4,7 @@
 - 📱 Telegram: [@realbaksili](https://t.me/realbaksili)
 
 ## Whatever Showcase
-- **Human Languages**: English, Chinese Mandarin, Japanese, Esperanto, Bahasa Indonesia
+- **Human Languages**: English, Chinese Mandarin, Chinese Sign Language, Japanese, Esperanto, Bahasa Indonesia
 - **Programming Languages**: Python, Go, Haskell, Wolflang
   <details><summary>more</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaksiLi&layout=donut&size_weight=0.15&count_weight=0.85&langs_count=6" alt="Language Ranking"></a>
